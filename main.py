@@ -1,7 +1,6 @@
 import game_code as ff
 
 def main():
-    print("urmom")
 
     # Dictionary of functions
     functionscall = {
