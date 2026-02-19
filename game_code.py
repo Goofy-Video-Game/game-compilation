@@ -3,10 +3,7 @@ import time
 
 """
     Just a bunch of random small games or just useful stuff.
-    Copy to PyCharm and commit to GitHub at some point.
-    validate the hell out of functions with try except when i can be bothered. 
-    rename file to games.
-    get ai to comply with pep 8 - DONT LET IT CHANGE LOGIC.
+    validate the hell out of functions with try except when i can be bothered.
 """
 
 
